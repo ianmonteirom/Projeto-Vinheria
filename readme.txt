@@ -1,4 +1,4 @@
-Check Point 1 - Front End Design
+Check Point 1 - Front End Design - Professor Wellington Cidade Silva
 
 --- Alunos ---
 Ian Monteiro Moreira - RM558652
